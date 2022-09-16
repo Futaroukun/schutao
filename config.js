@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '085722157719'
+global.povo = '----'
+global.pgopay = '----'
+global.ppulsa = '083854551575'
+global.ppulsa2 = '----'
+global.psaweria = 'https://saweria.co/Raflieditz2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '6285722157719'
+global.nomorown = '6283854551575'
+global.namebot = 'HU TAO BOT-MD'
+global.nameown = 'A7 RAFLI'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6283854551575', 'Sewa Bot', true],
+  ['6283854551575', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,17 +114,17 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm = '                「 HU TAO BOT-MD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘HU TAO BOT-MD˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ HU TAO BOT-MD '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By A7 RAFLI`
+global.author = '                「 HU TAO BOT-MD  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/tB5KQdZ/20220710-135847.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/e315dcd63dd3eee1abead.jpg' //Main Thumbnail
 global.imagebot = 'https://i.pinimg.com/originals/9b/3e/70/9b3e70d91a7db26d09ef1884049a3e71.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://hardianto.xyz/api/anime/random?sfw=wallpaper&apikey=hardianto']
